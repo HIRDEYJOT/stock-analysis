@@ -35,4 +35,7 @@ Here were can compare the refactored code vs the original code. The refactored c
 
 ## Summary
 
-To reiterate, the advantages of refactoring code is to see a faster run time, and to have a better code design & structure. While refactored code is quicker to run, the actual process of refactoring the code takes a lot of time to do, which isn’t good if you are on a strict deadline. I faced this challenge when trying to understand the changes that were being made, from a logical standpoint. Some of these difficulties came when rewriting loops utilizing variables as indexes and calling on arrays using variables as indexes. The pros and cons of refactoring this code were witnessed first hand. The logic of the original script was easier to grasp but the code was more "step by step" because of the absolute referencing. It took me around twice the amount of time to refactor the original script, just to make sure all of the logic was correct but I believe that this refactored code will prove to be most useful when we have a dataset with all of many stocks across different markets.
+To reiterate and the advantages of refactoring code is to see a faster run time, and to have a better code design & structure.Refactored code is quicker to run. Some of these difficulties came when rewriting loops utilizing variables as indexes and calling on arrays using variables as indexes. 
+
+### The pros and cons of refactoring this code
+The logic of the original script was easier to grasp but the code was more "step by step" because of the absolute referencing. It took twice the amount of time to refactor the original script but I believe that this refactored code will prove to be most useful when we have a dataset with all of many stocks across different markets.
